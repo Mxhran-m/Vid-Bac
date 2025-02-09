@@ -1,0 +1,29 @@
+{
+  "name": "vid-bac",
+  "version": "1.0.0",
+  "description": "A vidio streaming platform just like youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mxhran-m/Vid-Bac.git"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "tea"
+  ],
+  "author": "Mehran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mxhran-m/Vid-Bac/issues"
+  },
+  "homepage": "https://github.com/Mxhran-m/Vid-Bac#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.0"
+  }
+}
